@@ -5235,14 +5235,9 @@ body.ie ._ibg img {
   display: none;
 }
 .perfect__seconds, .perfect__minutes, .perfect__hours, .perfect__days {
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 700;
   text-transform: uppercase;
-}
-@media (max-width: 1812px) {
-  .perfect__seconds, .perfect__minutes, .perfect__hours, .perfect__days {
-    font-size: 25px;
-  }
 }
 .perfect__letter {
   font-size: 13px;
